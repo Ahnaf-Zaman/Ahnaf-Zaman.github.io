@@ -13,8 +13,3 @@ p,h1,h2,h3,h4,a {
 h1,h2,h3,h4,h5,h6 {
     font-weight: bold;
 }
-
-a {
-    padding-right: 30px;
-    padding-bottom: 50px;
-  }
